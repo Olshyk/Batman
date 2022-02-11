@@ -1,2 +1,4 @@
 # Batman
-Promo page for the movie "Batman" 2022
+Промостраница фильма "Бэтмен" 2022.
+Учебный проект от GLO Academy
+
